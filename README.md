@@ -1,6 +1,6 @@
 # TabSwap
 
-A tiny Mac menu bar app that swaps **Cmd+Tab** and **Ctrl+Tab**, so switching browser tabs is as easy as switching apps.
+A tiny Mac utility that swaps **Cmd+Tab** and **Ctrl+Tab**, so switching browser tabs is as easy as switching apps.
 
 **[Download TabSwap.dmg](https://github.com/arnavpodichetty/tabswap/releases/latest/download/TabSwap.dmg)**
 
